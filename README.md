@@ -2,7 +2,7 @@
 
  HTML UI Carlton Dole AI
 
-## Usage
+## Usage Carlton Insane
 
 ```
 git clone git@github.com:rtcfirefly/ollama-ui.git
