@@ -1,5 +1,5 @@
 // Base URL
-const URL = "http://localhost:11434/api/generate";
+const URL = "https://sharbi.ydns.eu/api/generate";
 
 // Function to send a POST request to the API
 function postRequest(data, signal) {
